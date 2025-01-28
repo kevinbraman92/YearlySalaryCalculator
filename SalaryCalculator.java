@@ -6,7 +6,6 @@ public class SalaryCalculator {
     private double rate;
 
     public SalaryCalculator(double hours, double rate) {
-
         this.hours = hours;
         this.rate = rate;
     }
